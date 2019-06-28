@@ -47,7 +47,3 @@ for i in range(M):
     else:
         pass
 print(d+1, c)
-
-
-
-
