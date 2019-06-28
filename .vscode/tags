@@ -1,0 +1,117 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+JOB_NUMBER	../server.py	/^JOB_NUMBER = [1, 2]$/;"	kind:variable	line:8
+NUMBER_OF_THREADS	../server.py	/^NUMBER_OF_THREADS = 2$/;"	kind:variable	line:7
+Solution.py	../Solution.py	1;"	kind:file	line:1
+T	../ucl.py	/^T = input()$/;"	kind:variable	line:2
+a	../Solution.py	/^  a = list(n)$/;"	kind:variable	line:4
+a	../chdiger.py	/^    a = list(n)$/;"	kind:variable	line:4
+a	../sol.py	/^    a = b%10$/;"	kind:variable	line:5
+a	../vowels.py	/^        a = math.floor(math.sqrt(n))$/;"	kind:variable	line:16
+alist	../sol2.py	/^    alist = []$/;"	kind:variable	line:6
+all_address	../server.py	/^all_address = []$/;"	kind:variable	line:11
+all_connections	../server.py	/^all_connections = []$/;"	kind:variable	line:10
+arr	../sol1.py	/^    arr=[]$/;"	kind:variable	line:4
+axes	../matlabprac.py	/^axes = plt.axes()$/;"	kind:variable	line:7
+b	../sol.py	/^    b = int(input())$/;"	kind:variable	line:3
+bind_socket	../server.py	/^def bind_socket():$/;"	kind:function	line:26
+c	../Solution.py	/^          c = c + a[i]$/;"	kind:variable	line:18
+c	../Solution.py	/^          c = c + d$/;"	kind:variable	line:20
+c	../Solution.py	/^        c = c + d$/;"	kind:variable	line:22
+c	../Solution.py	/^    c = c + a[x]$/;"	kind:variable	line:11
+c	../Solution.py	/^  c=""$/;"	kind:variable	line:9
+c	../sol.py	/^    c = b\/\/10$/;"	kind:variable	line:4
+c	../sol1.py	/^                c=c+l[i]*l[j]$/;"	kind:variable	line:34
+c	../sol1.py	/^    c=0$/;"	kind:variable	line:26
+c	../sol1.py	/^    c=c+(l[31]*(l[31]-1))\/\/2$/;"	kind:variable	line:36
+c	../vowels.py	/^                c = x ** i$/;"	kind:variable	line:21
+chdiger.py	../chdiger.py	1;"	kind:file	line:1
+client.py	../client.py	1;"	kind:file	line:1
+clipl.py	../clipl.py	1;"	kind:file	line:1
+cmd	../client.py	/^        cmd = subprocess.Popen(data[:].decode("utf-8"), shell=True, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.PIPE)$/;"	kind:variable	line:16
+count	../sol2.py	/^    count=0$/;"	kind:variable	line:10
+create_socket	../server.py	/^def create_socket():$/;"	kind:function	line:14
+currentWD	../client.py	/^        currentWD = os.getcwd() + "> "$/;"	kind:variable	line:19
+d	../ucl.py	/^    d = sorted( d.items(), key=lambda e: (e[1][0], e[1][1]), reverse=True )$/;"	kind:variable	line:43
+d	../ucl.py	/^    d = {}$/;"	kind:variable	line:5
+data	../client.py	/^    data = s.recv(1024)$/;"	kind:variable	line:12
+draw.py	../draw.py	1;"	kind:file	line:1
+e	../Solution.py	/^  e=""$/;"	kind:variable	line:25
+e	../chdiger.py	/^    e=''$/;"	kind:variable	line:5
+exp	../prac1.py	/^exp = []$/;"	kind:variable	line:13
+flag	../switch.py	/^            flag = flag*(-1)$/;"	kind:variable	line:11
+flag	../switch.py	/^            flag = flag*(-1)$/;"	kind:variable	line:13
+flag	../switch.py	/^        flag = 1$/;"	kind:variable	line:8
+fr.py	../fr.py	1;"	kind:file	line:1
+g	../Solution.py	/^  g = list(c)$/;"	kind:variable	line:23
+host	../client.py	/^host = "192.168.0.1"$/;"	kind:variable	line:6
+is_same	../tcsque.py	/^def is_same(a,s,d,f,g,h):$/;"	kind:function	line:1
+k	../Solution.py	/^  k = len(a)$/;"	kind:variable	line:8
+l	../Solution.py	/^  l = len(z)$/;"	kind:variable	line:7
+l	../sol1.py	/^    l=[0]*32$/;"	kind:variable	line:3
+length	../sol2.py	/^    length = len(string)$/;"	kind:variable	line:5
+lst	../vowels.py	/^        lst = primes1(a+1)$/;"	kind:variable	line:18
+lst2	../vowels.py	/^        lst2 = []$/;"	kind:variable	line:17
+m	../Solution.py	/^  m = min(a)$/;"	kind:variable	line:5
+matlabprac.py	../matlabprac.py	1;"	kind:file	line:1
+n	../prac1.py	/^    n = int(input())$/;"	kind:variable	line:24
+n	../sol1.py	/^    n=int(input())$/;"	kind:variable	line:5
+n	../sol2.py	/^    n = int(input())$/;"	kind:variable	line:3
+n	../tcsque.py	/^n = int(input())$/;"	kind:variable	line:16
+n	../vowels.py	/^    n = int(input())$/;"	kind:variable	line:12
+nos	../prac1.py	/^nos = int(pow(10**11, 0.5))+1$/;"	kind:variable	line:2
+numb	../sol1.py	/^                numb = numb +10000$/;"	kind:variable	line:12
+numb	../sol1.py	/^                numb = numb+1000$/;"	kind:variable	line:14
+numb	../sol1.py	/^                numb =numb +100$/;"	kind:variable	line:16
+numb	../sol1.py	/^                numb =numb+10$/;"	kind:variable	line:18
+numb	../sol1.py	/^                numb=numb+1$/;"	kind:variable	line:20
+numb	../sol1.py	/^        numb = 0$/;"	kind:variable	line:9
+output_byte	../client.py	/^        output_byte = cmd.stdout.read() + cmd.stderr.read()$/;"	kind:variable	line:17
+output_str	../client.py	/^        output_str = str(output_byte, "utf-8")$/;"	kind:variable	line:18
+p	../tcsque.py	/^p =input().split(',')$/;"	kind:variable	line:17
+port	../client.py	/^port = 9999$/;"	kind:variable	line:7
+pos	../prac1.py	/^        pos = bisect.bisect(exp, n)$/;"	kind:variable	line:30
+pr	../prac1.py	/^pr = []$/;"	kind:variable	line:6
+prac1.py	../prac1.py	1;"	kind:file	line:1
+primes	../prac1.py	/^primes = [True]*nos$/;"	kind:variable	line:4
+primes1	../vowels.py	/^def primes1(n):$/;"	kind:function	line:3
+process	../draw.py	/^def process():$/;"	kind:function	line:2
+q	../switch.py	/^    q = int(input())$/;"	kind:variable	line:5
+q	../tcsque.py	/^q = []$/;"	kind:variable	line:18
+queue	../server.py	/^queue = Queue()$/;"	kind:variable	line:9
+s	../client.py	/^s = socket.socket()$/;"	kind:variable	line:5
+s	../fr.py	/^s = 'aaaeiouu'$/;"	kind:variable	line:1
+s	../ucl.py	/^        s = input()$/;"	kind:variable	line:7
+s1	../sol1.py	/^        s1 = list(set(input()))$/;"	kind:variable	line:7
+s_array	../ucl.py	/^        s_array = s.split()$/;"	kind:variable	line:8
+score_1	../ucl.py	/^        score_1 = int(s_array[1])$/;"	kind:variable	line:11
+score_2	../ucl.py	/^        score_2 = int(s_array[-2])$/;"	kind:variable	line:12
+server.py	../server.py	1;"	kind:file	line:1
+sol.py	../sol.py	1;"	kind:file	line:1
+sol1.py	../sol1.py	1;"	kind:file	line:1
+sol2.py	../sol2.py	1;"	kind:file	line:1
+switch.py	../switch.py	1;"	kind:file	line:1
+t	../Solution.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../chdiger.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../clipl.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../prac1.py	/^t = int(input())$/;"	kind:variable	line:22
+t	../sol.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../sol1.py	/^t=int(input())$/;"	kind:variable	line:1
+t	../sol2.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../switch.py	/^t = int(input())$/;"	kind:variable	line:1
+t	../vowels.py	/^t = int(input())$/;"	kind:variable	line:10
+tcsque.py	../tcsque.py	1;"	kind:file	line:1
+team_1	../ucl.py	/^        team_1 = s_array[0]$/;"	kind:variable	line:9
+team_2	../ucl.py	/^        team_2 = s_array[-1]$/;"	kind:variable	line:10
+temp	../prac1.py	/^        temp = pr[i]**pr[j]$/;"	kind:variable	line:16
+ucl.py	../ucl.py	1;"	kind:file	line:1
+val	../sol1.py	/^        val=int(str(numb),base=2)$/;"	kind:variable	line:21
+vowels.py	../vowels.py	1;"	kind:file	line:1
+x	../matlabprac.py	/^x = np.arange(-3, 3, .001)$/;"	kind:variable	line:6
+x	../matlabprac.py	/^x = np.arange(-5, 5, 1)$/;"	kind:variable	line:15
+y	../matlabprac.py	/^y = np.arange(5, -5, -1)$/;"	kind:variable	line:16
+z	../Solution.py	/^  z = [i for i, j in enumerate(a) if j == m]$/;"	kind:variable	line:6
